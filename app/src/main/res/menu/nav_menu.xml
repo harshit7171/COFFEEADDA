@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_news"
+        android:title="CAPTION                                                             "
+        android:icon="@drawable/ic_news_menu"/>
+    <item
+        android:id="@+id/nav_person"
+        android:title="USER MENU"
+        android:icon="@drawable/ic_user_menu"/>
+
+    <item
+        android:id="@+id/nav_menu"
+        android:title="MENU"
+        android:icon="@drawable/ic_coffee_menu"/>
+    <item
+        android:id="@+id/nav_map"
+        android:title="GEO MENU"
+        android:icon="@drawable/ic_location_menu"/>
+
+</menu>

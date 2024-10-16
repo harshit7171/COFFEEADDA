@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">HARSHIT COFFEE ADDA</string>
+    <string name="news_menu">Caption Menu</string>
+    <string name="menu_menu">Menu</string>
+    <string name="geo_menu">Geo menu</string>
+    <string name="user_menu">User Menu</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="phone">Phone No</string>
+    <string name="password">Password</string>
+    <string name="forget_pass">Forgot Password?</string>
+    <string name="sign_in_with">Sign in with</string>
+    <string name="vkontakte">Facebook</string>
+    <string name="google">Google</string>
+    <string name="pass_recovery">Password recovery</string>
+    <string name="code_from_message">OTP</string>
+    <string name="code">Code</string>
+    <string name="pass_confirm">Confirm Password</string>
+    <string name="recovery">Recovery</string>
+    <string name="addresses">Addresses</string>
+    <string name="season_menu">Sweets and Snaks</string>
+    <string name="liked_menu">Linked menu</string>
+    <string name="classic_menu">Coffee menu</string>
+    <string name="baked_menu">Extra Ingredient</string>
+    <string name="favourite">Favourite</string>
+    <string name="menu">Menu</string>
+    <string name="news">CaPTioN</string>
+    <string name="person">Person</string>
+    <string name="person_name_and_firstname">Name Firstname</string>
+    <string name="person_phone_number">+91 999-999-9999</string>
+    <string name="loyalty_program">Loyalty Program</string>
+    <string name="orders_history">Orders History</string>
+    <string name="exit">Exit</string>
+    <string name="order_number_text">Ordered Number</string>
+    <string name="num_order">0000001</string>
+    <string name="product">Product</string>
+    <string name="cost">Cost</string>
+    <string name="list_product">Product list</string>
+    <string name="list_cost">220Rs\n180Rs\n59Rs</string>
+    <string name="final_cost">Final Cost</string>
+    <string name="num_final_cost">439p</string>
+    <string name="name_product">Name of Product</string>
+    <string name="cost_name_product">180Rs</string>
+    <string name="add_in_cart">Add to Cart</string>
+    <string name="add_in_liked">Add in linked</string>
+    <string name="name_menu_elem">Name Menu Element</string>
+    <string name="choose_syrup">Choose Syrup</string>
+    <string name="back">Back</string>
+    <string name="description">Description</string>
+    <string name="name_news">Name Caption</string>
+    <string name="date_news">Date</string>
+    <string name="information_of_loyalty"> Coffee shop is available for 24/7 hours.
+    you can order at any moments.</string>
+    <string name="close">Close</string>
+    <string name="registration">Registration</string>
+    <string name="name">Name</string>
+    <string name="firstname">First Name</string>
+    <string name="date_birthday">DOB</string>
+    <string name="final_reg">Register</string>
+    <string name="menu_elem_counter">1</string>
+    <string name="news_description">News description</string>
+    <string name="news_header">News header</string>
+    <string name="final_int_cost">0 Rs</string>
+    <string name="pay">Pay</string>
+    <string name="cart">Cart</string>
+    <string name="syrop">syrop:</string>
+    <string name="cost_with_dvoetochie">Cost with syrop:</string>
+    <string name="final_cart_cost">21313Rs</string>
+    <string name="without_syrop">Cost without syrop</string>
+    <string name="Email">Email</string>
+
+
+    <string-array name="syrups_list">
+        <item>Sugar</item>
+        <item>Ginger</item>
+        <item>Blackpeper</item>
+        <item>Elaichi</item>
+        <item>Cream</item>
+        <item>Cinnamon</item>
+        <item>Rock Salt</item>
+    </string-array>
+</resources>
